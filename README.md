@@ -2,6 +2,15 @@
 
 This is a Project Management application built using Next.js on the frontend and Spring Boot on the backend. The application provides basic functionalities for managing products and admin sections with different roles and authentication.
 
+### Default Credentials
+
+For easier testing, the following default credentials are provided:
+
+| Username          | Password    | Role          |
+| ----------------- | ----------- | ------------- |
+| account@email.com | !9Password  | ACCOUNT       |
+| admin@email.com   | !91Password | ADMINISTRATOR |
+
 ## Features
 
 - User and Admin role-based access.
